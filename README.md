@@ -1,3 +1,3 @@
-# Bem vindo ao curso GItHub.
+# Bem vindo ao curso GitHub.
 
 TESTANDO MEU README
